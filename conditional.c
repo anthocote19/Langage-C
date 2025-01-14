@@ -5,7 +5,7 @@ void displayMonthName() {
 
     printf("Enter a number between 1 and 12: ");
     if (scanf("%d", &month) != 1) { 
-        printf("Invalid input. Please enter an integer.\n");
+        printf("Invalid input.\n");
         return;
     }
 
