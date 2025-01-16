@@ -1,1 +1,1 @@
-Implémentation de petits Algorithmes dans le but de construire le projet final
+Implementation of small algorithms in order to build the final project
