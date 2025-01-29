@@ -3,7 +3,7 @@
 This repository contains a collection of small C programs implementing algorithms and functionalities. These programs serve as building blocks for more complex projects.
  
 ## Final Project
-
+ 
 The culmination of this work is the [Pokemon Project](https://github.com/anthocote19/Pokemon-Project), which integrates various algorithms developed here.
 
 ## List of Algorithms
